@@ -147,7 +147,7 @@ public class RandomuserTest {
     }
 
     @ParameterizedTest
-    @ValueSource(strings = {"8-8:8", "16-16:16"})
+    @ValueSource(strings = {"upper,8-8:8", "lower,16-16:16"})
     @Description("Проверить установку password (длина)")
     public void testPasswordLength(String param) {
         String[] params = param.split(":");
