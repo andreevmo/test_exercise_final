@@ -1,5 +1,7 @@
 ## Final test exercise to position automation QA Java
 
+Test suites in test resources
+
 ### Stack:
 
 - Java 17
