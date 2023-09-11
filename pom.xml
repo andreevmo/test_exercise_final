@@ -19,7 +19,7 @@
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
-            <version>5.9.2</version>
+            <version>5.10.0</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
         <dependency>
@@ -32,7 +32,13 @@
         <dependency>
             <groupId>com.codeborne</groupId>
             <artifactId>selenide</artifactId>
-            <version>6.17.0</version>
+            <version>6.18.0</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.codeborne/selenide-full-screenshot -->
+        <dependency>
+            <groupId>com.codeborne</groupId>
+            <artifactId>selenide-full-screenshot</artifactId>
+            <version>6.18.0</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.assertj/assertj-core -->
         <dependency>
